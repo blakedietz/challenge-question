@@ -4,6 +4,8 @@
 // the order in which the interval was displayed
 
 // I think that this is the reason why this question is being asked.
+// Seems like the person who is asking the question is looking to see if the implementer has an understanding of 
+// closure.
 //(function generateRandomTimeIntervals()
 //{
 //  for( var i = 1; i < 101; i++)
